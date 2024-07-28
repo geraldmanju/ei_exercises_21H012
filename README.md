@@ -1,3 +1,14 @@
+# Exercise 1: : Problem Statement on Design patterns
+
+Use Case: Observer Pattern in a News Agency System
+Scenario
+A news agency publishes news updates. There are multiple subscribers (like newspapers, TV channels, and online platforms) that need to be notified whenever a new piece of news is published. This scenario is a perfect use case for the Observer design pattern, where the NewsAgency acts as the subject, and the subscribers act as observers.
+
+Java Code: News Agency Observer Pattern
+
+
+# Exercise 2: Problem Statements for Mini-projects
+
 # Virtual Classroom Manager
 
 ## Overview
