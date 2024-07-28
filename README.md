@@ -1,4 +1,4 @@
-# Exercise 1: Problem Statement on Design patterns
+# Exercise1: Problem Statement on Design patterns
 
 Use Case: Observer Pattern in a News Agency System
 Scenario
@@ -7,7 +7,7 @@ A news agency publishes news updates. There are multiple subscribers (like newsp
 Java Code: News Agency Observer Pattern
 
 
-# Exercise 2: Problem Statements for Mini-projects
+# Exercise2: Problem Statements for Mini-projects
 
 # Virtual Classroom Manager
 
