@@ -1,4 +1,4 @@
-# Exercise 1: : Problem Statement on Design patterns
+# Exercise 1: Problem Statement on Design patterns
 
 Use Case: Observer Pattern in a News Agency System
 Scenario
